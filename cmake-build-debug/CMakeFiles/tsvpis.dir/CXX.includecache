@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dsimutin/code/tsvpis/main.cpp
+iostream
+-
+chrono
+-
+snippets.h
+/home/dsimutin/code/tsvpis/snippets.h
+
+/home/dsimutin/code/tsvpis/snippets.h
+vector
+-
+
